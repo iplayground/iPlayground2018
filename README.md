@@ -27,10 +27,10 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 * Hao Lee: [@twhaolee](https://twitter.com/twhaolee)
 * ethanhuang13: [@ethanhuang13](https://twitter.com/ethanhuang13)
 * Hanpo
+* Hanyu
 
 ## Co-organizers / 協辦單位
 
-* 台大資管系
 * [Cocoaheads Taipei](https://www.facebook.com/groups/cocoaheads.taipei/)
 * [Swift Taipei](https://www.facebook.com/groups/1441447606106488/)
 * [Swift Girls](https://www.facebook.com/groups/1260405513988915/)
