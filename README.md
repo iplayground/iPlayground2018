@@ -17,18 +17,6 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 * Facebook: [theiPlayground](https://www.facebook.com/theiPlayground/)
 * Slack: [i-playground](https://i-playground.slack.com)
 
-## Organizers / 主辦成員
-
-* ...
-
-## Co-organizers / 協辦單位
-
-* 台大資管系
-* [Cocoaheads Taipei](https://www.facebook.com/groups/cocoaheads.taipei/)
-* [Swift Taipei](https://www.facebook.com/groups/1441447606106488/)
-* [Swift Girls](https://www.facebook.com/groups/1260405513988915/)
-* [iOS @ Taipei](https://www.facebook.com/groups/ios.taipei/)
-
 ## Organizer & Staff / 主辦人 
 * hokila: [@hokilaJ](https://twitter.com/hokilaJ)
 * Dada: [@nalydadad](https://twitter.com/nalydadad) 
@@ -39,6 +27,14 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 * Hao Lee: [@twhaolee](https://twitter.com/twhaolee)
 * ethanhuang13: [@ethanhuang13](https://twitter.com/ethanhuang13)
 * Hanpo
+
+## Co-organizers / 協辦單位
+
+* 台大資管系
+* [Cocoaheads Taipei](https://www.facebook.com/groups/cocoaheads.taipei/)
+* [Swift Taipei](https://www.facebook.com/groups/1441447606106488/)
+* [Swift Girls](https://www.facebook.com/groups/1260405513988915/)
+* [iOS @ Taipei](https://www.facebook.com/groups/ios.taipei/)
 
 ## Staff / 工作人員
 * Liyao: [@gliyao](https://twitter.com/gliyao)
