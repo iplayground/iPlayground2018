@@ -29,31 +29,28 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 * [Swift Girls](https://www.facebook.com/groups/1260405513988915/)
 * [iOS @ Taipei](https://www.facebook.com/groups/ios.taipei/)
 
-## Members & Friends / 成員與朋友們
-
-(Sorted by Slack joined order)
-
+## Organizer & Staff / 主辦人 
 * hokila: [@hokilaJ](https://twitter.com/hokilaJ)
-* Liyao: [@gliyao](https://twitter.com/gliyao)
 * Dada: [@nalydadad](https://twitter.com/nalydadad) 
-* Raymond Chen
-* zonble: [@zonble](https://twitter.com/zonble)
-* Li Lin: [@allenlinli](https://twitter.com/allenlinli)
-* Stjason / Jaxun
-* Pofat Tseng / pofat
 * joechen
 * superbil: [@superbil](https://twitter.com/superbil)
-* Vincent Huang: [@OOBE](https://twitter.com/OOBE)
 * johnlinvc: [@johnlinvc](https://twitter.com/johnlinvc)
 * Ryan LR
 * Hao Lee: [@twhaolee](https://twitter.com/twhaolee)
 * ethanhuang13: [@ethanhuang13](https://twitter.com/ethanhuang13)
-* peter
 * Hanpo
+
+## Staff / 工作人員
+* Liyao: [@gliyao](https://twitter.com/gliyao)
+* Raymond Chen
+* zonble: [@zonble](https://twitter.com/zonble)
+* Stjason / Jaxun
+* Pofat Tseng / pofat
+* Vincent Huang: [@OOBE](https://twitter.com/OOBE)
+* peter
 * WellyShen
 * Noah: [@noahcse](https://twitter.com/noahcse)
 * Bram
 * Jeff Lin: [@kenobilyh](https://twitter.com/kenobilyh)
 * Ya Fang Cheng / Avon
 * medophin 豆花
-* ...
