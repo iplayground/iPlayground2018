@@ -2,6 +2,20 @@
 
 An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發為中心的技術研討會，在台北舉辦。
 
+## Call for Papers / 徵稿中
+
+* 徵稿時間：即日起至 2018/09/20
+* 採匿名審稿制度
+* 投稿網站：[cfp.iplayground.io](https://cfp.iplayground.io)
+
+歡迎下列主題投稿
+
+* Objective-C / Swift framework 使用心得分享
+* iOS / Mac 軟體開發經驗分享
+* UI Test / Unit Test / Refactor 軟體品質經驗分享
+* UI / UX 設計經驗分享
+* Agile / Scrum 經驗心得分享
+
 ## Introduction / 簡介
 
 * When / 時間：2018/10/20-21
