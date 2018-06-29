@@ -2,7 +2,7 @@
 
 An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發為中心的技術研討會，在台北舉辦。
 
-## Call for Papers / 徵稿中
+## Call for Proposals / 徵稿中
 
 * 徵稿時間：即日起至 2018/09/20
 * 採匿名審稿制度
