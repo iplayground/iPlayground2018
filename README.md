@@ -47,7 +47,7 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 
 * [Cocoaheads Taipei](https://www.facebook.com/groups/cocoaheads.taipei/)
 * [Swift Taipei](https://www.meetup.com/Swift-Taipei-User-Group/)
-* [Swift Girls](https://www.facebook.com/groups/1260405513988915/)
+* [APP Girls(Swift Girls)](https://www.facebook.com/groups/1260405513988915/)
 * [iOS @ Taipei](https://www.facebook.com/groups/ios.taipei/)
 
 ## Staff / 工作人員
