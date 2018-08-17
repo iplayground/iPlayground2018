@@ -29,6 +29,7 @@ An iOS/Mac development-focused conference in Taipei, Taiwan. 以 iOS/Mac 開發�
 * GitHub: [iplayground](https://github.com/iplayground)
 * Twitter: [@theiPlayground](https://twitter.com/theiPlayground)
 * Facebook: [theiPlayground](https://www.facebook.com/theiPlayground/)
+* Mastodon: [@iplayground@mastodon.technology](https://mastodon.technology/@iplayground)
 * Slack: [i-playground](https://i-playground.slack.com)
 
 ## Organizer & Staff / 主辦人 
